@@ -5,7 +5,6 @@ Architecte d’outils intelligents, d’applications web temps réel et de syst�
 
 [![Website](https://img.shields.io/badge/Portail-charles.dev-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://charles.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cdebrier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesdebrier)
-[![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesdebrier@gmail.com)
 
 ---
 
@@ -34,4 +33,3 @@ Architecte d’outils intelligents, d’applications web temps réel et de syst�
 
 - **Portail & App Launcher** : [charles.dev](https://charles.dev)
 - **LinkedIn** : [linkedin.com/in/charlesdebrier](https://www.linkedin.com/in/charlesdebrier)
-- **Email direct** : [charlesdebrier@gmail.com](mailto:charlesdebrier@gmail.com)
