@@ -3,7 +3,6 @@
 **Data Scientist & AI Engineer** · Bruxelles, Belgique 🇧🇪  
 Architecte d’outils intelligents, d’applications web temps réel et de systèmes orientés données.
 
-[![Website](https://img.shields.io/badge/Portail-charles.dev-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://charles.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cdebrier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesdebrier)
 
 ---
@@ -31,5 +30,4 @@ Architecte d’outils intelligents, d’applications web temps réel et de syst�
 
 ### 📬 Me Contacter
 
-- **Portail & App Launcher** : [charles.dev](https://charles.dev)
 - **LinkedIn** : [linkedin.com/in/charlesdebrier](https://www.linkedin.com/in/charlesdebrier)
